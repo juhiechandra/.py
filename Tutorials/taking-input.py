@@ -1,2 +1,6 @@
-name = input('what is your name, sir?')
-print('Hi' + name)
+# name = input('what is your name, sir?')
+# print('Hi' + name)
+name = input('What is your good name? ')
+print('Hi' + ' ' + name )
+color = input('What is your favourite color? ')
+print(name + ' ' + 'likes' + ' ' + color)
